@@ -1,8 +1,8 @@
 # TeamViewer
 
 ## Bookmarks
-[TeamViewer Windows download page](https://www.teamviewer.com/nl/download/windows)
-[TeamViewer Raspberry Pi download page](https://www.teamviewer.com/nl/download/raspberry-pi/)
+- [TeamViewer Windows download page](https://www.teamviewer.com/nl/download/windows)
+- [TeamViewer Raspberry Pi download page](https://www.teamviewer.com/nl/download/raspberry-pi/)
 
 ## Video Reference
 
