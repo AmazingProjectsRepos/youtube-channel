@@ -1,4 +1,4 @@
 # Amazing Projects
-Companion repository for the [https://www.youtube.com/@Amazing-Projects](Amazing Projects Youtube channel)
+Companion repository for the [Amazing Projects](https://www.youtube.com/@Amazing-Projects) Youtube channel.
 
-https://badges.strrl.dev/visits/${owner}/${repo}
+[![Visits Badge](https://badges.strrl.dev/visits/${owner}/${repo})](https://badges.strrl.dev)
